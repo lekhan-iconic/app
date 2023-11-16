@@ -1,0 +1,29 @@
+.editor-container {
+  display: flex;
+  gap: 30px;
+}
+.editor-column {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  gap: 20px;
+}
+.editor-text {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+.editor1 {
+  border: 2px solid rgb(255, 102, 0);
+  border-radius: 5px;
+}
+.editor2 {
+  border: 2px solid rgb(255, 102, 0);
+  border-radius: 5px;
+}
+.editor3 {
+  border: 2px solid rgb(255, 102, 0);
+  border-radius: 5px;
+}
